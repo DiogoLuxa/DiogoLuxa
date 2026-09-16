@@ -1,27 +1,26 @@
 # DIOGO LUXA_
 
-### Creative Developer in the making.
+`CREATIVE DEVELOPER`  
+`// BUILD // LEARN // CREATE`
 
 Building at the intersection of **code × design × motion**.
 
-`BUILD` · `LEARN` · `CREATE`
-
 ---
 
-### CURRENTLY
+### NOW_
 
 Frontend Development · JavaScript · UI/UX
 
-### EXPLORING
+### EXPLORING_
 
 Motion · Creative Coding · 3D · Interactive Web
 
-### BUILDING
+### BUILDING_
 
-Learning through projects, experiments, and challenges while developing my own approach to creative development.
+Projects, experiments, and challenges as I develop my path into creative development.
 
 → [Frontend Mentor](https://www.frontendmentor.io/profile/DiogoLuxa)
 
 ---
 
-**Building in public. Learning by creating.**
+`BUILDING IN PUBLIC — LEARNING BY CREATING`
