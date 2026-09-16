@@ -1,11 +1,6 @@
-# DIOGO LUXA_
-
-`CREATIVE DEVELOPER`  
-`// BUILD // LEARN // CREATE`
-
-Building at the intersection of **code × design × motion**.
-
----
+<p align="center">
+  <img src="./assets/dlx-github-header.png" alt="Diogo Luxa — Creative Developer" width="100%">
+</p>
 
 ### NOW_
 
