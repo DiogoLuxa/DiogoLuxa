@@ -1,16 +1,27 @@
-## Hi there 👋
+# DIOGO LUXA_
 
-<!--
-**DiogoLuxa/DiogoLuxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Creative Developer in the making.
 
-Here are some ideas to get you started:
+Building at the intersection of **code × design × motion**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`BUILD` · `LEARN` · `CREATE`
+
+---
+
+### CURRENTLY
+
+Frontend Development · JavaScript · UI/UX
+
+### EXPLORING
+
+Motion · Creative Coding · 3D · Interactive Web
+
+### BUILDING
+
+Learning through projects, experiments, and challenges while developing my own approach to creative development.
+
+→ [Frontend Mentor](https://www.frontendmentor.io/profile/DiogoLuxa)
+
+---
+
+**Building in public. Learning by creating.**
