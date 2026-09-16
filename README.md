@@ -12,7 +12,7 @@ Motion · Creative Coding · 3D · Interactive Web
 
 ### BUILDING_
 
-Projects, experiments, and challenges as I develop my path into creative development.
+Learning through projects, experiments, and challenges.
 
 → [Frontend Mentor](https://www.frontendmentor.io/profile/DiogoLuxa)
 
